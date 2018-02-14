@@ -4,7 +4,7 @@ public class Objective2Lab3 {
     food1 = "Apple";
     food2 = "Banana";
     food3 = "Coconut";
-      System.out.println("My favorite foods are:\n1." + food1 +"\n2." + food2 +"\n3." + food3);
+      System.out.println("My favorite foods are:\n1. " + food1 + "\n2. " + food2 +"\n3. " + food3);
 
   }
 }

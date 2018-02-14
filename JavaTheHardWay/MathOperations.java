@@ -19,7 +19,7 @@ public class MathOperations {
     g = b % 10;
     System. out.println("b%10 is " + g );
     h = c + g + f;
-    System. out.println("c + g + f is " + h );
+    System. out.println("c+g+f is " + h );
 
     x = 1.1;
     System. out.println("\nx is " + x );
@@ -32,8 +32,8 @@ public class MathOperations {
     System. out.println();
 
     one = "dog";
-    two = "house";
-    three = " frog mouse";
+    two = "house ";
+    three = "frog mouse";
     both = one + two;
     all = one + two + three;
     System. out.println(both);

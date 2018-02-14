@@ -3,7 +3,7 @@ import java.util.Scanner;
   public class RudeQuestions {
     public static void main(String[] args) {
       String name, car;
-      int age,;
+      int age;
       double weight, income;
 
       Scanner keyboard = new Scanner(System.in);
@@ -22,7 +22,7 @@ import java.util.Scanner;
       System.out.println(" What kind of car do you drive " + name + " ?");
       car = keyboard.next();
       System.out.println("A " + car + " is a pretty decent car. ");
-      
+
       System.out.print(" Finally, what's your income, " + name + "? ");
       income = keyboard.nextDouble();
 
