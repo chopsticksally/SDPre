@@ -11,6 +11,7 @@ public class ThirtyDays {
 
     switch(month) {
       case 1: monthName = "January";
+        // System.out.println("hello");
               break;
       case 2: monthName = "February";
               break;
