@@ -51,8 +51,9 @@ public class VariableChangeShortcuts {
     i++;
 
     // for (int i = 5; i < 10; i++) {
+    // i cant remember how to loop but it was worth shot
     System.out.println( "i: " + i );
-    
+
 
 
 
