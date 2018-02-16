@@ -17,5 +17,7 @@
     else if (userNum == 0)
       System.out.println("The number is equal to zero.");
 
+      scanner.close();
+
     }
   }
